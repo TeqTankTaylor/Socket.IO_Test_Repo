@@ -16,7 +16,7 @@ io.on("connection", function (socket) {
     });
 
     socket.on("message-from-client", function (msg) {
-        console.log(msg);
+        console.log(msg); 
     });
 });
 
