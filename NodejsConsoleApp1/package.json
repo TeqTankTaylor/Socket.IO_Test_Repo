@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.1",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "Taylor Schumacher"
+  },
+  "dependencies": {
+    "Bower": "^1.0.0",
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-console-app1",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
